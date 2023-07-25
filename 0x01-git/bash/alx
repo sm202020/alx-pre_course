@@ -6,5 +6,5 @@ ALX
 >>>>>>> update_script
 echo ALX School
 #!/bin/bash
-echo "ALX School!" 
+echo "ALX School is so cool!" 
 >>>>>>> update_script
